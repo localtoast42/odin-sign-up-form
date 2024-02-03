@@ -9,7 +9,7 @@ body {
 }
 
 .side-panel {
-    background-color: blue; 
+    background-image: url(./img/ivan-bandura-7AMO4gMc6jM-unsplash.jpg);
     flex-grow: 1;
     height: 100vh;
 }
