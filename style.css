@@ -39,3 +39,10 @@ ul {
 .form-inputs {
     background-color: white;
 }
+
+.create-account-btn {
+    background-color: #596D48;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
