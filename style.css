@@ -15,6 +15,13 @@ body {
     flex-basis: 33%;
 }
 
+.side-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(0 0 0 / 40%);
+}
+
 .main-panel {
     display: flex;
     flex-direction: column;
