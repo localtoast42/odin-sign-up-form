@@ -10,8 +10,9 @@ body {
 
 .side-panel {
     background-image: url(./img/ivan-bandura-7AMO4gMc6jM-unsplash.jpg);
-    flex-grow: 1;
+    background-size: cover;
     height: 100vh;
+    flex-basis: 33%;
 }
 
 .main-panel {
