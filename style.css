@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.side-panel {
+    background-color: blue; 
+    flex-grow: 1;
+    height: 100vh;
+}
+
+.main-panel {
+    background-color: grey;
+    flex-grow: 2;
+}
