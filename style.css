@@ -16,6 +16,10 @@ ul {
     margin: 0;
 }
 
+li {
+    margin-bottom: 16px;
+}
+
 label {
     position: relative;
     display: inline-block;
