@@ -16,6 +16,12 @@ ul {
     margin: 0;
 }
 
+label {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
 .container {
     display: flex;
     flex: 1;
@@ -62,12 +68,18 @@ ul {
 .main-panel {
     display: flex;
     flex-direction: column;
-    background-color: grey;
+    justify-content: center;
+    background-color: rgb(236, 236, 236);
     flex-grow: 2;
 }
 
 .form-inputs {
     background-color: white;
+    padding: 0px 32px;
+}
+
+.form-inputs > div {
+    display: flex;
 }
 
 .create-account-btn {
