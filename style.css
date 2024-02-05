@@ -90,6 +90,10 @@ input {
     flex-grow: 2;
 }
 
+.call-to-action {
+    padding: 32px 32px;
+}
+
 .form-inputs {
     background-color: white;
     padding: 16px 32px;
