@@ -91,6 +91,7 @@ input {
 }
 
 .call-to-action {
+    max-width: 730px;
     padding: 32px 32px;
     font-size: 24px;
     font-weight: 700;
