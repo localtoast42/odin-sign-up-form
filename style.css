@@ -48,10 +48,6 @@ input:valid {
     border: 1px solid lightgrey;
 }
 
-input:invalid {
-    border: 2px solid rgb(227, 0, 0);
-}
-
 .container {
     display: flex;
     flex: 1;
