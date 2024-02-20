@@ -40,8 +40,9 @@ input {
 }
 
 input:focus {
-    border: 2px solid blue;
     box-shadow: 3px 3px 3px lightgrey;
+    border: 1px solid lightgrey;
+    outline: 1px solid blue;
 }
 
 input:valid {
